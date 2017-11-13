@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git://github.com/Pupix/adaptive-icon.git"
   },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
   "homepage": "https://github.com/Pupix/adaptive-icon",
   "ignore": [
     "**/.*",

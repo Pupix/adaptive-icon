@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@webcomponents/webcomponentsjs@^1.0.18":
+"@webcomponents/webcomponentsjs@1.0.18":
   version "1.0.18"
   resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-1.0.18.tgz#d8cfc5fc62e85a09e5101db573c24f87acb1d062"
 

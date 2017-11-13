@@ -10,13 +10,11 @@
     "dev": "http-server"
   },
   "devDependencies": {
+    "@webcomponents/webcomponentsjs": "1.0.18",
     "eslint": "4.11.0",
     "eslint-config-airbnb-base": "12.1.0",
     "eslint-plugin-import": "2.8.0",
     "http-server": "^0.10.0"
-  },
-  "dependencies": {
-    "@webcomponents/webcomponentsjs": "^1.0.18"
   },
   "keywords": [
     "web-components",
