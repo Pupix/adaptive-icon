@@ -11,7 +11,7 @@ Example:
 <custom-element-demo>
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="adaptive-icon.js">
+    <script src="adaptive-icon.js"></script>
 
     <div id="container">
       <next-code-block></next-code-block>
