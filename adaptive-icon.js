@@ -101,8 +101,8 @@
 
         connectedCallback() {
             // Firefox pls 😭
-            if (ShadyCSS) {
-                ShadyCSS.styleElement(this);
+            if (window.ShadyCSS) {
+                window.ShadyCSS.styleElement(this);
             }
         }
 
@@ -120,8 +120,8 @@
     }
 
     // Firefox pls 😭
-    if (ShadyCSS) {
-        ShadyCSS.prepareTemplate(template, AdaptiveIcon.is);
+    if (window.ShadyCSS) {
+        window.ShadyCSS.prepareTemplate(template, AdaptiveIcon.is);
     }
 
     window.customElements.define(AdaptiveIcon.is, AdaptiveIcon);
