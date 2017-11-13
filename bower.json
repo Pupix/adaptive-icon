@@ -1,0 +1,29 @@
+{
+  "name": "adaptive-icon",
+  "description": "Bring the new Android O adaptive icons directly into your browser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "authors": [
+    "Pupix <manolea.robert@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Pupix/adaptive-icon.git"
+  },
+  "homepage": "https://github.com/Pupix/adaptive-icon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "Android O",
+    "adaptive icon",
+    "icon"
+  ]
+}

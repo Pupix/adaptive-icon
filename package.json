@@ -1,9 +1,11 @@
 {
   "name": "adaptive-icon",
+  "description": "Bring the new Android O adaptive icons directly into your browser",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Pupix <manolea.robert@gmail.com>",
   "license": "MIT",
+  "repository": "Pupix/adaptive-icon",
   "scripts": {
     "dev": "http-server"
   },
@@ -15,5 +17,12 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.18"
-  }
+  },
+  "keywords": [
+    "web-components",
+    "web-component",
+    "Android O",
+    "adaptive icon",
+    "icon"
+  ]
 }
