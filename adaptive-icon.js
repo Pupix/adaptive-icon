@@ -13,6 +13,10 @@
                     contain: layout;
                 }
 
+                :host svg {
+                    display:block;
+                }
+
                 :host([mask="circle"]) .wrapper {
                     clip-path: url(#circle);
                 }
@@ -100,7 +104,7 @@
         }
 
         connectedCallback() {
-            // Firefox pls 😭
+            // Firefox pls 
             if (window.ShadyCSS) {
                 window.ShadyCSS.styleElement(this);
             }
@@ -119,7 +123,7 @@
         }
     }
 
-    // Firefox pls 😭
+    // Firefox pls 
     if (window.ShadyCSS) {
         window.ShadyCSS.prepareTemplate(template, AdaptiveIcon.is);
     }
