@@ -1,7 +1,7 @@
 {
   "name": "adaptive-icon",
   "description": "Bring the new Android O adaptive icons directly into your browser",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "Pupix <manolea.robert@gmail.com>",
   "license": "MIT",
